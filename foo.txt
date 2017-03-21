@@ -1,1 +1,2 @@
-Segundo arquivo 
+Esse é o conteudo errado do foo.txt
+
